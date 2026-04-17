@@ -176,8 +176,4 @@ Data preprocessing techniques like these are essential for ensuring **accurate a
 
 ---
 
-## ⭐ Support
-
-If you found this useful:
-- ⭐ Star the repository  
-- 🍴 Fork and explore further  
+  
